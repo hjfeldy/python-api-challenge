@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "ab9bdeeebe2b7fcb936cb886f5c38c05"
+weather_api_key = "Removed_for_security_reasons"
 
 # Google API Key
-g_key = "AIzaSyBoiEwV1WBpK7timUN-lYwsuCCo7TeVkAw"
+g_key = "Removed_for_security_reasons"
